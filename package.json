@@ -9,7 +9,7 @@
   },
   "scripts": {
     "cypress:web": "npx cypress open",
-    "cypress:headless": "sudo npx cypress run --browser electron"
+    "cypress:headless": "npx cypress run --browser electron"
   },
   "keywords": [],
   "author": "devggui",
